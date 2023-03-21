@@ -1,5 +1,5 @@
 # Character Reversing - .Net Core
-In this application, the user enters a word and the application adds the first character to the end of the word and prints it on the console.
+In this application, the user enters a word and the application adds the first character to the end of the word and prints it to the console.
 </br>
 
 *Sample input: Hello - Welcome - Mauritius* </br>
